@@ -11,109 +11,75 @@
   <img src="assets/banner.png" alt="DevKit Banner" width="400px">
 </div>
 
-## 📊 Contents:
+## 📑 Quick Navigation:
 
-<div align="center">
+<div align="center" style="margin: 20px 0;">
   <a href="#ai-tools">
-    <img src="https://img.shields.io/badge/🤖_AI_Tools-black?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" />
+    <img src="https://img.shields.io/badge/AI_TOOLS-000000?style=for-the-badge&logo=openai&logoColor=white" height="35" alt="AI Tools"/>
   </a>
   <a href="#learning">
-    <img src="https://img.shields.io/badge/📚_Learning-black?style=for-the-badge&logo=notion&logoColor=white" alt="Learning" />
+    <img src="https://img.shields.io/badge/LEARNING-000000?style=for-the-badge&logo=notion&logoColor=white" height="35" alt="Learning"/>
   </a>
   <a href="#osint">
-    <img src="https://img.shields.io/badge/🔍_OSINT-black?style=for-the-badge&logo=osano&logoColor=white" alt="OSINT" />
+    <img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=osano&logoColor=white" height="35" alt="OSINT"/>
   </a>
   <a href="#security">
-    <img src="https://img.shields.io/badge/🔒_Security-black?style=for-the-badge&logo=hackaday&logoColor=white" alt="Security" />
+    <img src="https://img.shields.io/badge/SECURITY-000000?style=for-the-badge&logo=hackaday&logoColor=white" height="35" alt="Security"/>
   </a>
   <a href="#development">
-    <img src="https://img.shields.io/badge/💻_Development-black?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Development" />
+    <img src="https://img.shields.io/badge/DEVELOPMENT-000000?style=for-the-badge&logo=github&logoColor=white" height="35" alt="Development"/>
   </a>
   <a href="#browser-tools">
-    <img src="https://img.shields.io/badge/🌐_Browser_Tools-black?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Browser Tools" />
+    <img src="https://img.shields.io/badge/BROWSER_TOOLS-000000?style=for-the-badge&logo=googlechrome&logoColor=white" height="35" alt="Browser Tools"/>
   </a>
   <a href="#engineering">
-    <img src="https://img.shields.io/badge/⚙️_Engineering-black?style=for-the-badge&logo=autodesk&logoColor=white" alt="Engineering" />
+    <img src="https://img.shields.io/badge/ENGINEERING-000000?style=for-the-badge&logo=autodesk&logoColor=white" height="35" alt="Engineering"/>
   </a>
   <a href="#privacy">
-    <img src="https://img.shields.io/badge/🛡️_Privacy-black?style=for-the-badge&logo=bitwarden&logoColor=white" alt="Privacy" />
+    <img src="https://img.shields.io/badge/PRIVACY-000000?style=for-the-badge&logo=bitwarden&logoColor=white" height="35" alt="Privacy"/>
   </a>
 </div>
 
-<div style="margin: 20px 0"></div>
+## 📂 Categories:
 
-<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;">
-  <div align="center" id="ai-tools">
-    <a href="#ai-tools">
-      <img src="https://img.shields.io/badge/AI_TOOLS-000000?style=for-the-badge&logo=openai&logoColor=white&labelColor=black" height="60" alt="AI Tools"/>
-    </a>
-    <ul>
-      <li>Coming soon...</li>
-    </ul>
-  </div>
+<div id="ai-tools" align="center" style="margin: 30px 0;">
+  <img src="https://img.shields.io/badge/AI_TOOLS-000000?style=for-the-badge&logo=openai&logoColor=white" height="60" alt="AI Tools"/>
+  <p>Coming soon...</p>
+</div>
 
-  <div align="center" id="learning">
-    <a href="#learning">
-      <img src="https://img.shields.io/badge/LEARNING-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=black" height="60" alt="Learning"/>
-    </a>
-    <ul>
-      <li>Coming soon...</li>
-    </ul>
-  </div>
+<div id="learning" align="center" style="margin: 30px 0;">
+  <img src="https://img.shields.io/badge/LEARNING-000000?style=for-the-badge&logo=notion&logoColor=white" height="60" alt="Learning"/>
+  <p>Coming soon...</p>
+</div>
 
-  <div align="center" id="osint">
-    <a href="#osint">
-      <img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=osano&logoColor=white&labelColor=black" height="60" alt="OSINT"/>
-    </a>
-    <ul>
-      <li>Coming soon...</li>
-    </ul>
-  </div>
+<div id="osint" align="center" style="margin: 30px 0;">
+  <img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=osano&logoColor=white" height="60" alt="OSINT"/>
+  <p>Coming soon...</p>
+</div>
 
-  <div align="center" id="security">
-    <a href="#security">
-      <img src="https://img.shields.io/badge/SECURITY-000000?style=for-the-badge&logo=hackaday&logoColor=white&labelColor=black" height="60" alt="Security"/>
-    </a>
-    <ul>
-      <li>Coming soon...</li>
-    </ul>
-  </div>
+<div id="security" align="center" style="margin: 30px 0;">
+  <img src="https://img.shields.io/badge/SECURITY-000000?style=for-the-badge&logo=hackaday&logoColor=white" height="60" alt="Security"/>
+  <p>Coming soon...</p>
+</div>
 
-  <div align="center" id="development">
-    <a href="#development">
-      <img src="https://img.shields.io/badge/DEVELOPMENT-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=black" height="60" alt="Development"/>
-    </a>
-    <ul>
-      <li>Coming soon...</li>
-    </ul>
-  </div>
+<div id="development" align="center" style="margin: 30px 0;">
+  <img src="https://img.shields.io/badge/DEVELOPMENT-000000?style=for-the-badge&logo=github&logoColor=white" height="60" alt="Development"/>
+  <p>Coming soon...</p>
+</div>
 
-  <div align="center" id="browser-tools">
-    <a href="#browser-tools">
-      <img src="https://img.shields.io/badge/BROWSER_TOOLS-000000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=black" height="60" alt="Browser Tools"/>
-    </a>
-    <ul>
-      <li>Coming soon...</li>
-    </ul>
-  </div>
+<div id="browser-tools" align="center" style="margin: 30px 0;">
+  <img src="https://img.shields.io/badge/BROWSER_TOOLS-000000?style=for-the-badge&logo=googlechrome&logoColor=white" height="60" alt="Browser Tools"/>
+  <p>Coming soon...</p>
+</div>
 
-  <div align="center" id="engineering">
-    <a href="#engineering">
-      <img src="https://img.shields.io/badge/ENGINEERING-000000?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=black" height="60" alt="Engineering"/>
-    </a>
-    <ul>
-      <li>Coming soon...</li>
-    </ul>
-  </div>
+<div id="engineering" align="center" style="margin: 30px 0;">
+  <img src="https://img.shields.io/badge/ENGINEERING-000000?style=for-the-badge&logo=autodesk&logoColor=white" height="60" alt="Engineering"/>
+  <p>Coming soon...</p>
+</div>
 
-  <div align="center" id="privacy">
-    <a href="#privacy">
-      <img src="https://img.shields.io/badge/PRIVACY-000000?style=for-the-badge&logo=bitwarden&logoColor=white&labelColor=black" height="60" alt="Privacy"/>
-    </a>
-    <ul>
-      <li>Coming soon...</li>
-    </ul>
-  </div>
+<div id="privacy" align="center" style="margin: 30px 0;">
+  <img src="https://img.shields.io/badge/PRIVACY-000000?style=for-the-badge&logo=bitwarden&logoColor=white" height="60" alt="Privacy"/>
+  <p>Coming soon...</p>
 </div>
 
 ---
