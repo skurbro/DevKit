@@ -45,6 +45,15 @@
 <div id="ai-tools" style="margin: 30px 0;">
   <img src="https://img.shields.io/badge/AI_TOOLS-6B4C93?style=for-the-badge&logo=openai&logoColor=white" height="60" alt="AI Tools"/>
   
+  ### Image Editing & Generation Tools
+  - [Krea Edit](https://www.krea.ai/edit) - Smart Photoshop alternative with real-time generation. Features: object removal/addition, image expansion, object embedding, and repositioning. Supports high-quality uploads with daily generation limits.
+  - [Free Open Graph Generator](https://og.indiehub.best/) - Free template-based graphic design tool for presentations and wide-format posts. Customizable elements, images, logos, colors, and fonts.
+  - [PhotoRoom](https://app.photoroom.com/create) - Comprehensive commercial image editing suite for product visualization. Features: background removal, shadow/light effects, blur, text addition, and color adjustments. Free version limited to 720p downloads.
+  - [AIEASE](https://www.aiease.ai/app/make-passport-photo) - Automatic passport and official document photo creator. Automatically removes backgrounds and adjusts photos to required formats. Free with high-quality downloads.
+  - [xPassportPhoto](https://xpassportphoto.com/uk-ua) - Free alternative for creating official document photos.
+  - [Colorizer](https://imagecolorizer.com/colorize) - Old photo restoration service with colorization and damage repair features. Limited free usage but supports watermark-free downloads.
+  - [Image Colorizer](https://deepai.org/machine-learning-model/colorizer) - Free alternative for photo colorization and restoration.
+
   ### Generation & Editing
   - [Krea Realtime](https://www.krea.ai/apps/image/realtime) - Free real-time image generation tool that allows object manipulation, physical property changes, and spatial positioning.
   - [Loras](https://www.loras.dev/) - Free image generator based on Flux with simple interface. Supports various generation modes: icons, logos, Midjourney-style, and different sketch types. ([Source](https://github.com/Nutlope/loras-dev))
@@ -170,6 +179,13 @@
 <div id="development" style="margin: 30px 0;">
   <img src="https://img.shields.io/badge/DEVELOPMENT-24292E?style=for-the-badge&logo=github&logoColor=white" height="60" alt="Development"/>
   
+  ### GitHub Analysis Tools
+  - [GitMCP](https://gitmcp.io/) - Instantly connect any GitHub repository to Cursor, Claude, Windsurf, VSCode, Cline, or Highlight AI using Model Context Protocol (MCP) for seamless AI access to project documentation and code.
+  - [GitZip](https://gitzip.org/) - Chrome, Edge, and Firefox extension for downloading individual files or folders (in zip format) from any GitHub repository without downloading the entire project.
+  - [Code Finder](https://codefinder.dev/) - AI-powered GitHub search tool for finding repositories, code snippets, or specific users with a simple search interface and custom search algorithms.
+  - [GitSummarize](https://gitsummarize.com/) - Uses Gemini 2.5 Pro to transform GitHub repositories into comprehensive summaries, including directory/file overviews, architectural diagrams, and system-level architecture analysis.
+  - [Tutorial Codebase Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge) - Converts GitHub repositories into educational tutorials by scanning code and creating beginner-friendly learning materials with visualizations.
+
   ### AI-Powered Development
   - [Cursor](http://cursor.com/) - AI coding assistant that generates code, automates tasks, finds bugs, and analyzes coding style and project structure.
   - [v0.dev](https://v0.dev/) - AI-powered platform for creating full-stack Next.js and React applications from text prompts.
