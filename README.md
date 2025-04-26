@@ -1,22 +1,8 @@
 # DevKit 🛠️
 
+⚠️ **Important Disclaimer:** This repository is created solely for educational and research purposes. All tools, scripts, and resources are intended for learning and understanding security concepts only. I do not encourage or support the use of these tools for illegal or malicious activities. By using any materials from this repository, you agree that you act at your own risk, take full responsibility for your actions, and will use the tools only in legal and ethical ways. I am not responsible for any consequences, damage, or legal issues resulting from the use of these tools. Always obtain proper authorization before testing any security tools.
+
 <div align="center">
-  <h3>⚠️ Important Disclaimer</h3>
-  <p>
-    This repository is created solely for educational and research purposes. The tools, scripts, and resources listed here are provided for learning and understanding security concepts. I do not endorse, promote, or encourage the use of any tools for illegal or malicious activities.
-  </p>
-  <p>
-    By using any of the tools or scripts from this repository, you agree that:
-    <ul>
-      <li>You are solely responsible for your actions and their consequences</li>
-      <li>You will use these tools only in legal and ethical ways</li>
-      <li>You will not use these tools to harm others or violate their privacy</li>
-      <li>You understand that some tools may be considered "questionable" and use them at your own risk</li>
-    </ul>
-  </p>
-  <p>
-    I am not responsible for any misuse, damage, or legal issues that may arise from the use of these tools. Always ensure you have proper authorization before testing any security tools.
-  </p>
   <h3>Welcome to DevKit - Your Ultimate Developer's Swiss Army Knife! 🚀</h3>
   <p>
     This repository is a carefully curated collection of tools, AI services, guides, and resources designed to empower developers at all levels. Whether you're a seasoned professional, a curious beginner, or an IT enthusiast, you'll find valuable resources to enhance your technical journey.
