@@ -1,6 +1,22 @@
 # DevKit 🛠️
 
 <div align="center">
+  <h3>⚠️ Important Disclaimer</h3>
+  <p>
+    This repository is created solely for educational and research purposes. The tools, scripts, and resources listed here are provided for learning and understanding security concepts. I do not endorse, promote, or encourage the use of any tools for illegal or malicious activities.
+  </p>
+  <p>
+    By using any of the tools or scripts from this repository, you agree that:
+    <ul>
+      <li>You are solely responsible for your actions and their consequences</li>
+      <li>You will use these tools only in legal and ethical ways</li>
+      <li>You will not use these tools to harm others or violate their privacy</li>
+      <li>You understand that some tools may be considered "questionable" and use them at your own risk</li>
+    </ul>
+  </p>
+  <p>
+    I am not responsible for any misuse, damage, or legal issues that may arise from the use of these tools. Always ensure you have proper authorization before testing any security tools.
+  </p>
   <h3>Welcome to DevKit - Your Ultimate Developer's Swiss Army Knife! 🚀</h3>
   <p>
     This repository is a carefully curated collection of tools, AI services, guides, and resources designed to empower developers at all levels. Whether you're a seasoned professional, a curious beginner, or an IT enthusiast, you'll find valuable resources to enhance your technical journey.
@@ -119,7 +135,13 @@
 <div id="osint" style="margin: 30px 0;">
   <img src="https://img.shields.io/badge/OSINT-1565C0?style=for-the-badge&logo=osano&logoColor=white" height="60" alt="OSINT"/>
   
+  ### Search Query Enhancement Tools
+  - [Search Whisperer 2.0](https://searchwhisperer.ai/) - Analyzes ambiguous search queries and suggests specific keywords, advanced search operators, authoritative sources, and alternative queries to improve search results.
+  - [IntelTechniques Search Tools](https://inteltechniques.com/tools/index.html) - OSINT search tool aggregator with a user-friendly interface for constructing search queries across various investigation areas: social networks, email, usernames, names, photos/videos, maps, numbers, domains, and more.
+  - [AI Research Pilot](https://digitaldigging.org/research/) - Search query constructor for AI-powered investigations using various AI bots (Perplexit, ChatGPT, Gemini, Mistral, Copilot, DeepSeek). Automatically generates search prompts based on 17 investigation types, including comparative analysis, financial tracking, and historical context.
+
   ### Social Media & Face Analysis
+  - [NAMINT](https://seintpl.github.io/NAMINT/) - Comprehensive search tool for finding information by full name or nickname. Searches for photos, articles, publications, PDF, DOC, XLSX files, email addresses, social networks, and Google Maps locations. Automatically generates likely name combinations, nickname variations, and email addresses, providing direct search links for each variation. Free service.
   - [Face Search Online](https://faceonlive.com/face-search-online/#search-panel) - Searches for social media posts and profiles using facial recognition. Offers both free and paid versions. Free version has smaller database but allows image downloads. ([More similar services](https://t.me/cybersecurity_ua/890))
   - [Buzzglobe](https://buzzglobe.com/) - Social media search without account registration. Searches images, pages, and posts across Facebook, X, Instagram, LinkedIn, YouTube, Pinterest, and Snapchat. Includes search filters for date, relevance, and excluded terms.
   - [Face Sherlock](https://facesherlock.com/) - Finds all photos containing a specific person from your uploaded photo collection. Note: requires uploading personal photos to external service, use with caution.
@@ -146,6 +168,11 @@
 <div id="security" style="margin: 30px 0;">
   <img src="https://img.shields.io/badge/SECURITY-D32F2F?style=for-the-badge&logo=hackaday&logoColor=white" height="60" alt="Security"/>
   
+  ### Penetration Testing Tools
+  - [Onex](https://github.com/rajkumardusad/onex) - Comprehensive library of hacking tools for Termux and other Linux distributions. Includes over 60 tools for vulnerability scanning, analysis, password cracking, and system penetration.
+  - [Symbiote](https://github.com/hasanfirnas/symbiote) - Social engineering tool for creating phishing pages and covertly capturing IP addresses and webcam images from victims. Requires camera permissions on the victim's device.
+  - [ShellPhish](https://github.com/thelinuxchoice/shellphish) - Script for phishing attacks on Kali Linux using the ngrok service. Can clone 18 websites and allows custom site cloning for phishing attacks. Usage: `git clone https://github.com/thelinuxchoice/shellphish`, `cd shellphish`, `bash shellphish.sh`.
+
   ### Security Checkers
   - [Text Message Checker](https://www.f-secure.com/en/text-message-checker) - Analyzes text messages for potential scams by checking embedded links and their safety.
   - [Online Shopping Checker](https://www.f-secure.com/en/online-shopping-checker) - Evaluates online stores for potential fraud by analyzing popularity, operation duration, redirects, backlinks, server information, search engine blocking, SSL certificates, and reviews.
