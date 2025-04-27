@@ -95,6 +95,9 @@
 <div id="learning" style="margin: 30px 0;">
   <img src="https://img.shields.io/badge/LEARNING-2E7D32?style=for-the-badge&logo=notion&logoColor=white" height="60" alt="Learning"/>
   
+  ### Python for Network Engineers
+  - [Python for Network Engineers (pyneng)](https://pyneng.readthedocs.io/en/latest/) — a free online book and practical course focused on Python basics and automation tasks for network engineers. Covers Python fundamentals, Git/GitHub, file operations, regular expressions, data serialization, connecting to network devices (SSH, Telnet), concurrent connections, Jinja2 templates, command output parsing, OOP basics, working with databases, and automation tips. Includes assignments and instructions for automated solution checking.
+
   ### Natural History & Biology
   - [EOL](https://eol.org/uk/) - Comprehensive database of all living organisms (except humans) on Earth. Includes animals, plants, birds, insects, bacteria, and more. Features distribution maps and hierarchical relationship graphs.
   - [Ocearch](https://www.ocearch.org/tracker/) - Real-time tracking map of ocean animals (turtles, sharks, dolphins, alligators). Includes historical data, search filters, and environmental sensors (water temperature, waves, winds).
@@ -121,6 +124,28 @@
 <div id="osint" style="margin: 30px 0;">
   <img src="https://img.shields.io/badge/OSINT-1565C0?style=for-the-badge&logo=osano&logoColor=white" height="60" alt="OSINT"/>
   
+  ### Crypto Investigation Tools (used by ZachXBT)
+  A curated list of services and tools used by the well-known crypto investigator [ZachXBT](https://x.com/zachxbt?s=21) for uncovering crypto scams, tracking blockchain activity, and conducting OSINT investigations:
+  - **Cielo** ([cielo.finance](https://cielo.finance/)) — Real-time wallet tracking and monitoring for EVM, Bitcoin, Solana, Tron, and other blockchains.
+  - **TRM** ([trmlabs.com](https://www.trmlabs.com/)) — Advanced blockchain analytics platform for visualizing address and transaction graphs, risk scoring, and compliance.
+  - **MetaSuites** ([Chrome extension](https://chromewebstore.google.com/detail/metasuites-builders-swiss/fkhgpeojcbhimodmppkbbliepkpcgcoo?hl=en)) — Chrome extension that enriches block explorers with additional on-chain data and analytics.
+  - **OSINT Industries** ([osint.industries](http://osint.industries/)) — Search engine for emails, usernames, and phone numbers across multiple data sources.
+  - **LeakPeek** ([leakpeek.com](https://leakpeek.com/)), **Snusbase** ([snusbase.com](https://snusbase.com/)), **Intelx** ([intelx.io](https://intelx.io/)) — Database search tools for finding leaked credentials, personal data, and other information from breaches.
+  - **Spur** ([spur.us](https://spur.us/)) — IP address investigation tool for tracing digital footprints and infrastructure.
+  - **Cavalier (Hudson Rock)** ([hudsonrock.com](https://www.hudsonrock.com/)) — Service for searching info stealer malware logs and compromised credentials.
+  - **Impersonator** ([Chrome extension](https://chromewebstore.google.com/detail/impersonator/hgihfkmoibhccfdohjdbklmmcknjjmgl)) — Chrome extension for simulating dApp logins and testing wallet impersonation.
+  - **MetaSleuth** ([metasleuth.io](https://metasleuth.io/)) — Retail-focused blockchain analytics and visualization platform for tracking assets and transactions.
+  - **Arkham** ([arkhamintelligence.com](http://arkhamintelligence.com/)) — Multichain block explorer with entity labeling, graph creation, and alerting features.
+  - **Obsidian** ([obsidian.md](https://obsidian.md/)) — Note-taking and diagramming tool for creating flowcharts and investigation maps.
+  - **Wayback Machine** ([web.archive.org](https://web.archive.org/)), **Archive Today** ([archive.ph](https://archive.ph/)) — Web page archiving services for preserving and accessing historical web content.
+  - **Etherscan** ([etherscan.io](https://etherscan.io/)), **Solscan** ([solscan.io](https://solscan.io/)), **Blockchair** ([blockchair.com](https://blockchair.com/)) — Popular block explorers for EVM, Solana, and Bitcoin networks.
+  - **Range** ([rangeprotocol.com](https://rangeprotocol.com/)), **Pulsy** ([pulsy.app](https://pulsy.app/)), **Socketscan** ([socket.tech](https://www.socket.tech/)) — Cross-chain bridge explorers and analytics for tracking asset movements between blockchains.
+  - **Dune** ([dune.com](https://dune.com/discover/content/trending)) — Blockchain analytics platform for custom dashboards, queries, and data visualization.
+  - **Mugetsu** ([mugetsu.io](http://mugetsu.io/)) — Tool for viewing X/Twitter username history and searching meme coins.
+  - **TelegramDB Search Bot** ([telegramdb.org](https://www.telegramdb.org/)) — Telegram bot for basic OSINT on Telegram users and groups.
+  - **Discord[.]ID** ([discord.id](http://discord.id/)) — Lookup tool for basic Discord account information.
+  - **CryptoTaxCalculator** ([cryptotaxcalculator.io](https://cryptotaxcalculator.io/)) — Service for tracking profit and loss (PNL) and tax calculations for crypto addresses.
+
   ### Search Query Enhancement Tools
   - [Search Whisperer 2.0](https://searchwhisperer.ai/) - Analyzes ambiguous search queries and suggests specific keywords, advanced search operators, authoritative sources, and alternative queries to improve search results.
   - [IntelTechniques Search Tools](https://inteltechniques.com/tools/index.html) - OSINT search tool aggregator with a user-friendly interface for constructing search queries across various investigation areas: social networks, email, usernames, names, photos/videos, maps, numbers, domains, and more.
