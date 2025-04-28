@@ -95,6 +95,9 @@
 <div id="learning" style="margin: 30px 0;">
   <img src="https://img.shields.io/badge/LEARNING-2E7D32?style=for-the-badge&logo=notion&logoColor=white" height="60" alt="Learning"/>
   
+  ### Linux Learning Platforms
+  - [LinuxJourney](https://linuxjourney.com) — Interactive platform for learning Linux basics through mini-courses. Includes lessons and practical exercises with automatic answer checking. Topics: command line, text processing, user and process management, file systems, kernel, logging, networking, and more. Great for beginners.
+
   ### Python for Network Engineers
   - [Python for Network Engineers (pyneng)](https://pyneng.readthedocs.io/en/latest/) — a free online book and practical course focused on Python basics and automation tasks for network engineers. Covers Python fundamentals, Git/GitHub, file operations, regular expressions, data serialization, connecting to network devices (SSH, Telnet), concurrent connections, Jinja2 templates, command output parsing, OOP basics, working with databases, and automation tips. Includes assignments and instructions for automated solution checking.
 
