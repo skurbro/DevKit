@@ -182,6 +182,19 @@
 <div id="security" style="margin: 30px 0;">
   <img src="https://img.shields.io/badge/SECURITY-D32F2F?style=for-the-badge&logo=hackaday&logoColor=white" height="60" alt="Security"/>
   
+  ### Vulnerability Databases & Feeds
+  - [fedi sec feeds](https://fedisecfeeds.github.io/) — Aggregator of trending vulnerabilities, similar to cvecrowd. Provides a well-organized list with detailed vulnerability descriptions, CVSS scores, and discussion links.
+  - [MITRE CVE](https://www.cve.org/) — The official CVE database and search engine for vulnerability classification.
+  - [OpenCVE](https://www.opencve.io/cve) — CVE search engine with alerting functionality for new threats.
+  - [Vulnerability Database (Vulners)](https://vulners.com/) — Searchable resource for up-to-date threat intelligence and vulnerabilities.
+  - [sploitus](https://sploitus.com/) — Search engine for exploits and related tools.
+  - [CVE Trends (cvecrowd)](https://cvecrowd.com/) — Tracks real-time popularity and discussion of CVEs.
+  - [Exploit DB](https://www.exploit-db.com/) — Public archive of exploits and vulnerable software, CVE-compatible.
+  - [Cloudvulndb](https://www.cloudvulndb.org/) — Aggregates vulnerabilities and security issues for cloud service providers.
+  - [VulDB](https://vuldb.com/), [maltiverse](https://maltiverse.com/search) — Additional sources for vulnerabilities and indicators of compromise.
+  - [Snyk Vulnerability Database](https://security.snyk.io/), [Mend Vulnerability Database](https://www.mend.io/vulnerability-database/), [Vulncode-DB](https://www.vulncode-db.com/) — Open source vulnerability databases.
+  - [Rapid7 DB](https://www.rapid7.com/db/) — Database with details on 180,000+ vulnerabilities and 4,000+ exploits, all included in Metasploit.
+
   ### Penetration Testing Tools
   - [Onex](https://github.com/rajkumardusad/onex) - Comprehensive library of hacking tools for Termux and other Linux distributions. Includes over 60 tools for vulnerability scanning, analysis, password cracking, and system penetration.
   - [Symbiote](https://github.com/hasanfirnas/symbiote) - Social engineering tool for creating phishing pages and covertly capturing IP addresses and webcam images from victims. Requires camera permissions on the victim's device.
@@ -220,6 +233,10 @@
 <div id="development" style="margin: 30px 0;">
   <img src="https://img.shields.io/badge/DEVELOPMENT-24292E?style=for-the-badge&logo=github&logoColor=white" height="60" alt="Development"/>
   
+  ### Vulnerability & Advisory Databases
+  - [GitHub Advisory Database](https://github.com/advisories) — Security advisories and CVE database for open source projects, with remediation recommendations.
+  - [osv.dev](https://osv.dev/list) — Open Source Vulnerabilities database for developers, with automated CVE and patch tracking.
+
   ### GitHub Analysis Tools
   - [GitMCP](https://gitmcp.io/) - Instantly connect any GitHub repository to Cursor, Claude, Windsurf, VSCode, Cline, or Highlight AI using Model Context Protocol (MCP) for seamless AI access to project documentation and code.
   - [GitZip](https://gitzip.org/) - Chrome, Edge, and Firefox extension for downloading individual files or folders (in zip format) from any GitHub repository without downloading the entire project.
