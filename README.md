@@ -90,6 +90,16 @@
   - [FlipSketch](https://huggingface.co/spaces/Hmrishav/FlipSketch) - Convert static sketches into prompt-adjustable animations.
   - [TransPixar](https://huggingface.co/spaces/wileewang/TransPixar) - Generate background-free videos with visual effects from text descriptions.
   - [2short AI](https://2short.ai/) - Automatically convert long YouTube videos into shorts with topic generation (30 min/month free).
+
+  ### Video & Animation Tools
+  - [Higgsfield](https://higgsfield.ai/) — Advanced AI for video effects. Restyling images using 30+ style templates and animating them with cinematic camera movements (80+ motion templates). Upload photos or use prompts, then apply style and motion templates. Limited by number of attempts.
+  - [Vozo AI](https://app.vozo.ai/) — Lip-sync tool that synchronizes facial expressions with new audio. Features voice cloning and speaker dubbing in different languages. Free for up to 3 minutes.
+  - [HummingBird](https://fal.ai/models/fal-ai/tavus/hummingbird-lipsync/v0) — Lip-sync tool for matching facial expressions to audio. Free for one 15-second video without watermarks.
+
+  ### Design Resources
+  - [Items.design](https://items.design/) — AI-generated design resource library including abstract backgrounds, shapes, images, and real objects. Offers both free and premium elements with original quality downloads.
+  - [Color4bg](https://www.color4bg.com/en/) — WebGL and JavaScript-based tool for creating dynamic, abstract background images for web pages.
+  - [UNCUT.wtf](https://uncut.wtf/) — Curated repository of free, open-source fonts created by independent designers. Community-driven platform respecting author attribution.
 </div>
 
 <div id="learning" style="margin: 30px 0;">
@@ -260,6 +270,11 @@
   ### Content Processing
   - [LLMs.txt Generator](https://llmstxt.firecrawl.dev/) - Website content extractor that creates clean text files for LLM training by removing scripts and markup.
   - [Obsidian Web Clipper](https://obsidian.md/clipper) - Open-source tool for extracting and saving web content without API requirements.
+
+  ### Design Resources
+  - [Items.design](https://items.design/) — Comprehensive library of AI-generated design assets including backgrounds, shapes, and objects. Available in original quality.
+  - [Color4bg](https://www.color4bg.com/en/) — Tool for generating dynamic, abstract background images using WebGL and JavaScript.
+  - [UNCUT.wtf](https://uncut.wtf/) — Open-source font repository featuring works by independent designers, with proper attribution.
 </div>
 
 <div id="browser-tools" style="margin: 30px 0;">
@@ -341,6 +356,19 @@
 
   ### Engineering Resources
   - [iFixit](https://www.ifixit.com/) - Comprehensive collection of community-driven repair guides for devices, vehicles, and household items.
+
+  ### Simulators, Emulators & Operating Systems
+  - [Wokwi](https://wokwi.com/) — Web-based simulator for IoT and embedded systems (ESP32, STM32, Arduino, Raspberry Pi Pico, displays, sensors, motors, Wi-Fi simulation). Includes a code editor and hardware simulation panel.
+  - [Puter](https://github.com/heyPuter/puter/) ([Demo](https://puter.com/)) — Open-source desktop operating system running in the browser. Features apps like notepad, code editor, terminal, drawing tools, camera, recorder, browser, games, and even VS Code. Deployable via Docker or browser demo.
+  - [Dockerify Android](https://github.com/Shmayro/dockerify-android) — Dockerized Android emulator supporting x86 and arm64 architectures, with ADB and web access. Allows running Android virtual devices in Docker containers with a web interface.
+  - [Instant Workstation](https://instantworkstation.com/virtual-machine) — Service for running Linux and other OSes (Android, Haiku, TempleOS, etc.) in the browser. Pre-installed VMs with both GUI and terminal access, plus file upload/download.
+
+  ### Electronics Design & Prototyping Tools
+  - [OSHWlab](https://oshwlab.com/explore) — Online open-source lab with a large library of modules for designing various electronic circuits.
+  - [EasyEDA](https://easyeda.com/editor) — Web-based tool for circuit simulation and PCB design, also available as a desktop app. Integrates well with OSHWlab.
+  - [LCSC](https://www.lcsc.com/) — Online electronics component store. Download component models for use in your projects.
+  - [JLCPCB](https://jlcpcb.com/) — Service for ordering physical PCBs based on your designs, integrates with EasyEDA.
+  - [Diode](https://www.withdiode.com/) — Simple 3D simulator for building, programming, and modeling electronics directly in the browser.
 </div>
 
 <div id="privacy" style="margin: 30px 0;">
