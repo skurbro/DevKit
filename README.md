@@ -208,7 +208,8 @@
   ### Penetration Testing Tools
   - [Onex](https://github.com/rajkumardusad/onex) - Comprehensive library of hacking tools for Termux and other Linux distributions. Includes over 60 tools for vulnerability scanning, analysis, password cracking, and system penetration.
   - [Symbiote](https://github.com/hasanfirnas/symbiote) - Social engineering tool for creating phishing pages and covertly capturing IP addresses and webcam images from victims. Requires camera permissions on the victim's device.
-  - [ShellPhish](https://github.com/thelinuxchoice/shellphish) - Script for phishing attacks on Kali Linux using the ngrok service. Can clone 18 websites and allows custom site cloning for phishing attacks. Usage: `git clone https://github.com/thelinuxchoice/shellphish`, `cd shellphish`, `bash shellphish.sh`.
+  - [ShellPhish](https://github.com/thelinuxchoice/shellphish) - Script for phishing attacks on Kali Linux using the ngrok service. Can clone 18 websites and allows custom site cloning for phishing attacks.
+  - [XSStrike](https://github.com/s0md3v/XSStrike) - Advanced XSS scanner with WAF detection and evasion capabilities. Features intelligent payload generation, context analysis, and multiple attack modes (Fuzzer, Striker, Hulk). Currently supports GET and POST requests, with browser-based result visualization.
 
   ### Security Checkers
   - [Text Message Checker](https://www.f-secure.com/en/text-message-checker) - Analyzes text messages for potential scams by checking embedded links and their safety.
