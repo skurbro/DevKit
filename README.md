@@ -181,6 +181,21 @@
   ### Social Media Analysis
   - [VAPOR](https://vapor.selva.ee/) - Reddit profile analyzer that reveals activity patterns, interests, demographics, and potential locations.
   - [Profile Image Intel](https://profileimageintel.com/) - Tool for checking profile picture upload dates on WhatsApp, Facebook, TikTok, Twitter, and LinkedIn.
+  - [TikTok Country Finder](https://tiktokfindercountry.xyz/) - Free web tool for analyzing TikTok accounts by username. Provides registration date, name change history, statistics, subscriptions, user ID, registration region, and interface language. Also allows viewing stories and avatars in original format.
+  - [Unfurl](https://dfir.blog/unfurl/), [TikTok Timestamp](https://bellingcat.github.io/tiktok-timestamp/) - Tools for extracting exact publication time (hours, minutes) from TikTok videos, as TikTok only shows dates.
+  - [StickTock](https://sticktock.com/) - Private TikTok video viewer. Watch and share TikTok videos safely without invasive tracking. No ads, no spyware, no app installation required.
+  - [UrleBird](https://urlebird.com/ua/) - Anonymous TikTok web viewer. Analyze and browse TikTok accounts and their content without registration or app installation.
+  - [Export Comments](https://exportcomments.com/) - Tool for quick export of comments from TikTok, FB, Instagram, Twitter, YouTube, etc. Exports to spreadsheet with date, time, profile ID, likes count, and username. Free for first 100 comments.
+  - [Twiiit](https://twiiit.com/) - Web-based Twitter (X) viewer for browsing accounts and content without registration. Redirects requests through Nitter, a privacy-focused alternative frontend.
+  - [GreatFon](https://greatfon.io/), [Dumpor](https://dumpor.io/), [Piokok](https://www.piokok.com/) - Services for anonymous Instagram profile viewing. GreatFon and Dumpor support story viewing and downloading, while Piokok offers faster performance.
+  - [SteamID](https://steamid.uk/) - Steam profile analyzer. Check account activity, creation date, nickname history, avatar history, friends list (countries, friendship duration, VAC bans), and other statistics.
+  - [WhatsApp Checker](https://2chat.co/tools/whatsapp-checker) - WhatsApp account checker by phone number. Shows profile photo and general account information.
+  - [Social Media OSINT](https://github.com/The-Osint-Toolbox/Social-Media-OSINT) - Collection of tools for investigating Discord, Facebook, TikTok, Instagram, LinkedIn, Mastodon, Reddit, Skype, Twitter, WhatsApp, and more.
+  - [Imginn](https://imginn.com/), [Picuki](https://www.picuki.com/) - Instagram profile viewers that allow browsing and downloading posts without registration. Imginn also supports story viewing. Note: profile bios are not displayed.
+  - [WhatsApp Mobile Tool](https://whatsapp.checkleaked.cc/) - Quick WhatsApp account lookup by phone number. Works directly in browser, shows general account info and public profile photo.
+  - [Mavekite](https://mavekite.com/) - TikTok profile analyzer showing general info, account creation date, and video statistics. Includes premium features.
+  - [Osint Rocks](https://osint.rocks/) - Framework containing tools for username search, phone number verification (Instagram and WhatsApp), email lookup, and Google account information (Ghunt). Free to use.
+  - [Social Media OSINT Tools Collection](https://github.com/osintambition/Social-Media-OSINT-Tools-Collection/) - Comprehensive collection of tools for searching and analyzing various social networks including Facebook, Twitter, Reddit, Discord, LinkedIn, and more.
 
   ### Calculation Tools
   - [Vehicle Speed Calculator](https://www.reddit.com/r/mathematics/comments/1bsr115/can_anyone_calculate_the_speed_of_this_vehicle/?rdt=37432) - Methodology for calculating approximate vehicle speed from video footage.
