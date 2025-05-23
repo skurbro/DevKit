@@ -129,6 +129,7 @@
   - [NotClass](https://www.notclass.com/) - AI-powered platform for finding relevant educational video segments with timestamps.
   - [Connected Papers](https://www.connectedpapers.com/) - Visual tool for exploring academic paper citations and relationships.
   - [Imagine an Explainer Video](https://imagineexplainers.com/) - AI video presentation generator with custom animations and voiceovers.
+  - [Echo360 Downloader](https://github.com/soraxas/echo360) - Command-line tool for automated downloading of lecture recordings from the Echo360 platform used by many universities. Allows students to save lecture recordings for offline viewing.
   
   ### Books & Guides
   - [Web Application Security Guide (2025)](https://eztuir.ztu.edu.ua/bitstream/handle/123456789/8791/%D0%9F%D1%96%D1%80%D0%BE%D0%B3.pdf?sequence=1&isAllowed=y) - Comprehensive web security guide by Oleksandr Piroh.
@@ -137,27 +138,27 @@
 <div id="osint" style="margin: 30px 0;">
   <img src="https://img.shields.io/badge/OSINT-1565C0?style=for-the-badge&logo=osano&logoColor=white" height="60" alt="OSINT"/>
   
-  ### Crypto Investigation Tools (used by ZachXBT)
-  A curated list of services and tools used by the well-known crypto investigator [ZachXBT](https://x.com/zachxbt?s=21) for uncovering crypto scams, tracking blockchain activity, and conducting OSINT investigations:
-  - **Cielo** ([cielo.finance](https://cielo.finance/)) — Real-time wallet tracking and monitoring for EVM, Bitcoin, Solana, Tron, and other blockchains.
-  - **TRM** ([trmlabs.com](https://www.trmlabs.com/)) — Advanced blockchain analytics platform for visualizing address and transaction graphs, risk scoring, and compliance.
-  - **MetaSuites** ([Chrome extension](https://chromewebstore.google.com/detail/metasuites-builders-swiss/fkhgpeojcbhimodmppkbbliepkpcgcoo?hl=en)) — Chrome extension that enriches block explorers with additional on-chain data and analytics.
-  - **OSINT Industries** ([osint.industries](http://osint.industries/)) — Search engine for emails, usernames, and phone numbers across multiple data sources.
-  - **LeakPeek** ([leakpeek.com](https://leakpeek.com/)), **Snusbase** ([snusbase.com](https://snusbase.com/)), **Intelx** ([intelx.io](https://intelx.io/)) — Database search tools for finding leaked credentials, personal data, and other information from breaches.
-  - **Spur** ([spur.us](https://spur.us/)) — IP address investigation tool for tracing digital footprints and infrastructure.
-  - **Cavalier (Hudson Rock)** ([hudsonrock.com](https://www.hudsonrock.com/)) — Service for searching info stealer malware logs and compromised credentials.
-  - **Impersonator** ([Chrome extension](https://chromewebstore.google.com/detail/impersonator/hgihfkmoibhccfdohjdbklmmcknjjmgl)) — Chrome extension for simulating dApp logins and testing wallet impersonation.
-  - **MetaSleuth** ([metasleuth.io](https://metasleuth.io/)) — Retail-focused blockchain analytics and visualization platform for tracking assets and transactions.
-  - **Arkham** ([arkhamintelligence.com](http://arkhamintelligence.com/)) — Multichain block explorer with entity labeling, graph creation, and alerting features.
-  - **Obsidian** ([obsidian.md](https://obsidian.md/)) — Note-taking and diagramming tool for creating flowcharts and investigation maps.
-  - **Wayback Machine** ([web.archive.org](https://web.archive.org/)), **Archive Today** ([archive.ph](https://archive.ph/)) — Web page archiving services for preserving and accessing historical web content.
-  - **Etherscan** ([etherscan.io](https://etherscan.io/)), **Solscan** ([solscan.io](https://solscan.io/)), **Blockchair** ([blockchair.com](https://blockchair.com/)) — Popular block explorers for EVM, Solana, and Bitcoin networks.
-  - **Range** ([rangeprotocol.com](https://rangeprotocol.com/)), **Pulsy** ([pulsy.app](https://pulsy.app/)), **Socketscan** ([socket.tech](https://www.socket.tech/)) — Cross-chain bridge explorers and analytics for tracking asset movements between blockchains.
-  - **Dune** ([dune.com](https://dune.com/discover/content/trending)) — Blockchain analytics platform for custom dashboards, queries, and data visualization.
-  - **Mugetsu** ([mugetsu.io](http://mugetsu.io/)) — Tool for viewing X/Twitter username history and searching meme coins.
-  - **TelegramDB Search Bot** ([telegramdb.org](https://www.telegramdb.org/)) — Telegram bot for basic OSINT on Telegram users and groups.
-  - **Discord[.]ID** ([discord.id](http://discord.id/)) — Lookup tool for basic Discord account information.
-  - **CryptoTaxCalculator** ([cryptotaxcalculator.io](https://cryptotaxcalculator.io/)) — Service for tracking profit and loss (PNL) and tax calculations for crypto addresses.
+  ### Crypto Investigation Tools
+  A curated list of services and tools for blockchain analysis, crypto investigations, and OSINT:
+  - [Cielo](https://cielo.finance/) — Real-time wallet tracking and monitoring for EVM, Bitcoin, Solana, Tron, and other blockchains.
+  - [TRM](https://www.trmlabs.com/) — Advanced blockchain analytics platform for visualizing address and transaction graphs, risk scoring, and compliance.
+  - [MetaSuites](https://chromewebstore.google.com/detail/metasuites-builders-swiss/fkhgpeojcbhimodmppkbbliepkpcgcoo?hl=en) — Chrome extension that enriches block explorers with additional on-chain data and analytics.
+  - [OSINT Industries](http://osint.industries/) — Search engine for emails, usernames, and phone numbers across multiple data sources.
+  - [LeakPeek](https://leakpeek.com/), [Snusbase](https://snusbase.com/), [Intelx](https://intelx.io/) — Database search tools for finding leaked credentials, personal data, and other information from breaches.
+  - [Spur](https://spur.us/) — IP address investigation tool for tracing digital footprints and infrastructure.
+  - [Cavalier](https://www.hudsonrock.com/) — Service for searching info stealer malware logs and compromised credentials.
+  - [Impersonator](https://chromewebstore.google.com/detail/impersonator/hgihfkmoibhccfdohjdbklmmcknjjmgl) — Chrome extension for simulating dApp logins and testing wallet impersonation.
+  - [MetaSleuth](https://metasleuth.io/) — Retail-focused blockchain analytics and visualization platform for tracking assets and transactions.
+  - [Arkham](http://arkhamintelligence.com/) — Multichain block explorer with entity labeling, graph creation, and alerting features.
+  - [Obsidian](https://obsidian.md/) — Note-taking and diagramming tool for creating flowcharts and investigation maps.
+  - [Wayback Machine](https://web.archive.org/), [Archive Today](https://archive.ph/) — Web page archiving services for preserving and accessing historical web content.
+  - [Etherscan](https://etherscan.io/), [Solscan](https://solscan.io/), [Blockchair](https://blockchair.com/) — Popular block explorers for EVM, Solana, and Bitcoin networks.
+  - [Range](https://rangeprotocol.com/), [Pulsy](https://pulsy.app/), [Socketscan](https://www.socket.tech/) — Cross-chain bridge explorers and analytics for tracking asset movements between blockchains.
+  - [Dune](https://dune.com/discover/content/trending) — Blockchain analytics platform for custom dashboards, queries, and data visualization.
+  - [Mugetsu](http://mugetsu.io/) — Tool for viewing X/Twitter username history and searching meme coins.
+  - [TelegramDB Search Bot](https://www.telegramdb.org/) — Telegram bot for basic OSINT on Telegram users and groups.
+  - [Discord[.]ID](http://discord.id/) — Lookup tool for basic Discord account information.
+  - [CryptoTaxCalculator](https://cryptotaxcalculator.io/) — Service for tracking profit and loss (PNL) and tax calculations for crypto addresses.
 
   ### Search Query Enhancement Tools
   - [Search Whisperer 2.0](https://searchwhisperer.ai/) - Analyzes ambiguous search queries and suggests specific keywords, advanced search operators, authoritative sources, and alternative queries to improve search results.
