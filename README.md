@@ -364,6 +364,7 @@
   - [Puter](https://github.com/heyPuter/puter/) ([Demo](https://puter.com/)) — Open-source desktop operating system running in the browser. Features apps like notepad, code editor, terminal, drawing tools, camera, recorder, browser, games, and even VS Code. Deployable via Docker or browser demo.
   - [Dockerify Android](https://github.com/Shmayro/dockerify-android) — Dockerized Android emulator supporting x86 and arm64 architectures, with ADB and web access. Allows running Android virtual devices in Docker containers with a web interface.
   - [Instant Workstation](https://instantworkstation.com/virtual-machine) — Service for running Linux and other OSes (Android, Haiku, TempleOS, etc.) in the browser. Pre-installed VMs with both GUI and terminal access, plus file upload/download.
+  - [DistroSea](https://distrosea.com/) — Cloud platform for testing various Linux distributions (Alpine, Arch, Debian, Ubuntu, etc.) directly in your browser. Features internet access for registered users and simultaneous distribution testing. Free to use.
 
   ### Electronics Design & Prototyping Tools
   - [OSHWlab](https://oshwlab.com/explore) — Online open-source lab with a large library of modules for designing various electronic circuits.
