@@ -44,6 +44,8 @@
 
 ## Categories:
 
+---
+
 <div id="ai-tools" style="margin: 30px 0;">
   <img src="https://img.shields.io/badge/AI_TOOLS-6B4C93?style=for-the-badge&logo=openai&logoColor=white" height="60" alt="AI Tools"/>
   
@@ -102,6 +104,8 @@
   - [UNCUT.wtf](https://uncut.wtf/) — Curated repository of free, open-source fonts created by independent designers. Community-driven platform respecting author attribution.
 </div>
 
+---
+
 <div id="learning" style="margin: 30px 0;">
   <img src="https://img.shields.io/badge/LEARNING-2E7D32?style=for-the-badge&logo=notion&logoColor=white" height="60" alt="Learning"/>
   
@@ -134,6 +138,8 @@
   ### Books & Guides
   - [Web Application Security Guide (2025)](https://eztuir.ztu.edu.ua/bitstream/handle/123456789/8791/%D0%9F%D1%96%D1%80%D0%BE%D0%B3.pdf?sequence=1&isAllowed=y) - Comprehensive web security guide by Oleksandr Piroh.
 </div>
+
+---
 
 <div id="osint" style="margin: 30px 0;">
   <img src="https://img.shields.io/badge/OSINT-1565C0?style=for-the-badge&logo=osano&logoColor=white" height="60" alt="OSINT"/>
@@ -197,6 +203,51 @@
   - [Osint Rocks](https://osint.rocks/) - Framework containing tools for username search, phone number verification (Instagram and WhatsApp), email lookup, and Google account information (Ghunt). Free to use.
   - [Social Media OSINT Tools Collection](https://github.com/osintambition/Social-Media-OSINT-Tools-Collection/) - Comprehensive collection of tools for searching and analyzing various social networks including Facebook, Twitter, Reddit, Discord, LinkedIn, and more.
 
+  ### Email Analysis Tools
+  - [Holehe](https://github.com/megadose/holehe) - Open-source utility that checks if an email is registered on over 120 services including social networks. Uses password recovery and registration methods to detect account existence.
+
+  ### Image Analysis & Forensics
+  - [TinEye](https://tineye.com/) - Reverse image search engine that finds where images appear online and tracks their usage across the web.
+  - [Berify](https://berify.com/) - Advanced reverse image search tool that finds similar images across multiple search engines.
+  - [FotoForensics](https://fotoforensics.com/) - Tool for analyzing digital images to detect manipulation and hidden data.
+  - [Exif Viewer](https://www.findexif.com/) - Extract and view EXIF metadata from images, including camera settings, GPS coordinates, and timestamps.
+  - [Toolsley](https://www.toolsley.com/) - File analysis tool that helps identify file types and extract metadata.
+
+  ### People Search Engines
+  - [PeekYou](https://www.peekyou.com/) - People search engine that aggregates public information from social networks and other sources.
+  - [Pipl](https://pipl.com/) - Deep web people search engine that finds contact information, social profiles, and public records.
+  - [Hunter.io](https://hunter.io/) - Email finder and verifier for finding professional email addresses.
+  - [Spokeo](https://www.spokeo.com/) - People search engine that aggregates data from public records, social networks, and other sources.
+
+  ### Username Search
+  - [CheckUsernames](https://checkusernames.com/) - Check username availability across multiple social networks and websites.
+  - [Namechk](https://namechk.com/) - Username availability checker for social networks, domain names, and more.
+  - [KnowEm](https://knowem.com/) - Username search and brand monitoring across social networks and domain names.
+
+  ### Network & Infrastructure Analysis
+  - [Censys](https://censys.io/) - Platform for discovering and monitoring devices, websites, and certificates on the internet.
+  - [Shodan](https://www.shodan.io/) - Search engine for internet-connected devices and systems.
+  - [Netcraft](https://www.netcraft.com/) - Internet security and data mining company that provides web server and SSL certificate analysis.
+
+  ### Search Engine Directories
+  - [Search Engine Colossus](http://www.searchenginecolossus.com/) - Directory of search engines organized by country and category.
+  - [100 Search Engines](https://www.100searchengines.com/) - Comprehensive list of search engines and directories.
+
+  ### Data Breach & Leak Search
+  - [Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email has been compromised in known data breaches.
+  - [Hacked-Emails](https://hacked-emails.com/) - Database of compromised email addresses from various breaches.
+  - [GhostProject](https://ghostproject.fr/) - Search engine for leaked credentials and data breaches.
+
+  ### Flight Tracking
+  - [FlightRadar24](https://www.flightradar24.com/) - Real-time flight tracking service showing air traffic around the world.
+  - [PlaneFinder](https://planefinder.net/) - Live flight tracking with detailed aircraft information and historical data.
+  - [RadarBox](https://www.radarbox24.com/) - Live flight tracking with ADS-B data and aircraft information.
+
+  ### OSINT Frameworks & Collections
+  - [OSINT Framework](https://osintframework.com/) - Collection of OSINT tools organized by category and purpose.
+  - [IntelTechniques](https://inteltechniques.com/links.HTML) - Comprehensive collection of OSINT tools and resources.
+  - [Ciberpatrulla Links](https://ciberpatrulla.com/links/) - Curated collection of OSINT and cybersecurity tools.
+
   ### Calculation Tools
   - [Vehicle Speed Calculator](https://www.reddit.com/r/mathematics/comments/1bsr115/can_anyone_calculate_the_speed_of_this_vehicle/?rdt=37432) - Methodology for calculating approximate vehicle speed from video footage.
   - [Sollumis](https://sollumis.com/) - Precise sun position calculator showing sunrise, sunset, and noon directions with visualization for any location and date.
@@ -204,6 +255,8 @@
   - [De Vybukh](https://play.google.com/store/apps/details?id=com.jurfixapp.devibuh) - Ukrainian app for calculating explosion distance based on video footage ([Example](https://twitter.com/Dmojavensis/status/1696675996781752601/photo/1)).
   - [IPVM Calculator](https://calculator.ipvm.com/) - Surveillance camera calculator for viewing angles, image clarity, and placement optimization with model-specific simulations.
 </div>
+
+---
 
 <div id="security" style="margin: 30px 0;">
   <img src="https://img.shields.io/badge/SECURITY-D32F2F?style=for-the-badge&logo=hackaday&logoColor=white" height="60" alt="Security"/>
@@ -221,11 +274,19 @@
   - [Snyk Vulnerability Database](https://security.snyk.io/), [Mend Vulnerability Database](https://www.mend.io/vulnerability-database/), [Vulncode-DB](https://www.vulncode-db.com/) — Open source vulnerability databases.
   - [Rapid7 DB](https://www.rapid7.com/db/) — Database with details on 180,000+ vulnerabilities and 4,000+ exploits, all included in Metasploit.
 
+  ### Cryptographic Tools
+  - [OpenSSL](https://www.openssl.org/) — Industry-standard toolkit for SSL/TLS protocols and cryptography. Used for certificate management, encryption, and implementing cryptographic algorithms.
+
+  ### Data Breach Monitoring
+  - [Have I Been Pwned](https://haveibeenpwned.com/) — Service for checking email and password compromises in known data breaches. Uses k-anonymity for secure password verification and provides API access.
+
   ### Penetration Testing Tools
   - [Onex](https://github.com/rajkumardusad/onex) - Comprehensive library of hacking tools for Termux and other Linux distributions. Includes over 60 tools for vulnerability scanning, analysis, password cracking, and system penetration.
   - [Symbiote](https://github.com/hasanfirnas/symbiote) - Social engineering tool for creating phishing pages and covertly capturing IP addresses and webcam images from victims. Requires camera permissions on the victim's device.
   - [ShellPhish](https://github.com/thelinuxchoice/shellphish) - Script for phishing attacks on Kali Linux using the ngrok service. Can clone 18 websites and allows custom site cloning for phishing attacks.
   - [XSStrike](https://github.com/s0md3v/XSStrike) - Advanced XSS scanner with WAF detection and evasion capabilities. Features intelligent payload generation, context analysis, and multiple attack modes (Fuzzer, Striker, Hulk). Currently supports GET and POST requests, with browser-based result visualization.
+  - [Pentest-Tools-Auto-Installer](https://github.com/Yukinoshita47/Pentest-Tools-Auto-Installer) - Automated script for installing 27 popular penetration testing tools on Debian/Ubuntu systems. Includes Nmap, Wireshark, John, SQLMap, Hydra, Aircrack-Ng, and more. Simplifies the setup process with one-click installation.
+  - [LaZagne](https://github.com/AlessandroZ/LaZagne) - Python-based post-exploitation tool for recovering passwords from various applications. Supports browsers, messengers, email clients, and WiFi credentials.
 
   ### Security Checkers
   - [Text Message Checker](https://www.f-secure.com/en/text-message-checker) - Analyzes text messages for potential scams by checking embedded links and their safety.
@@ -256,6 +317,8 @@
   ### Data Recovery
   - [File Recovery Guide](https://infosecwriteups.com/5-ways-i-can-find-your-deleted-files-as-an-ethical-hacker-4bc6508392fa) - Comprehensive guide on recovering deleted files using various forensic techniques and tools.
 </div>
+
+---
 
 <div id="development" style="margin: 30px 0;">
   <img src="https://img.shields.io/badge/DEVELOPMENT-24292E?style=for-the-badge&logo=github&logoColor=white" height="60" alt="Development"/>
@@ -293,6 +356,8 @@
   - [Color4bg](https://www.color4bg.com/en/) — Tool for generating dynamic, abstract background images using WebGL and JavaScript.
   - [UNCUT.wtf](https://uncut.wtf/) — Open-source font repository featuring works by independent designers, with proper attribution.
 </div>
+
+---
 
 <div id="browser-tools" style="margin: 30px 0;">
   <img src="https://img.shields.io/badge/BROWSER_TOOLS-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" height="60" alt="Browser Tools"/>
@@ -345,6 +410,8 @@
   - [Compromised Extensions List](https://t.me/molfar_global/3452) - Molfar's collection of known compromised extensions and remediation instructions.
 </div>
 
+---
+
 <div id="engineering" style="margin: 30px 0;">
   <img src="https://img.shields.io/badge/ENGINEERING-FF6D00?style=for-the-badge&logo=autodesk&logoColor=white" height="60" alt="Engineering"/>
   
@@ -389,6 +456,8 @@
   - [Diode](https://www.withdiode.com/) — Simple 3D simulator for building, programming, and modeling electronics directly in the browser.
 </div>
 
+---
+
 <div id="privacy" style="margin: 30px 0;">
   <img src="https://img.shields.io/badge/PRIVACY-1976D2?style=for-the-badge&logo=bitwarden&logoColor=white" height="60" alt="Privacy"/>
   
@@ -417,6 +486,7 @@
 </div>
 
 ---
+
 <div align="center">
   Made with ❤️ by skurbro
 </div>
